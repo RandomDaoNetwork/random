@@ -9,7 +9,7 @@
 This token, initially launched in 2022 by a young prodigy named Huang Zheng from Shenzhen, is a promising investment opportunity. With a low market cap and a unique backstory, it is poised for significant growth, particularly around early June.
 
 ## Backstory
-Huang Zheng, a primary school student, launched this token while making educational videos on YouTube and Bilibili. He created a website where users could claim airdrops by spending gas fees. However, due to the overwhelming volume of airdrops, bots started claiming them, and it took a month to distribute all the tokens. Once the bot activity ended, the token's price surged by 20 times within two days. There is even a DAO dedicated to this project: [Random_Dao on Twitter](https://twitter.com/Random_Dao).
+Huang Zheng, a primary school student, launched this token while making educational videos on YouTube and Bilibili. He created a website where users could claim airdrops by spending gas fees. However, due to the overwhelming volume of airdrops, bots started claiming them, and it took a month to distribute all the tokens. Once the bot activity ended, the token's price surged by 20 times within two days. There is even a DAO dedicated to this project: [Random_Dao on Twitter](https://x.com/Random__Dao).
 
 ## Current Highlights
 1. **Extremely Low Market Cap**: The token is highly undervalued, making it a prime candidate for substantial returns.
